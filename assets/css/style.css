@@ -1,0 +1,90 @@
+.jumbotron {
+    box-sizing: border-box;
+    height: 37.5rem;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  .main-button-container {
+    margin-top: 10.9375rem;
+    max-width: 38.125rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .timer-c {
+    margin-top: 3rem;
+    font-size: 1.8rem;
+    font-weight: bolder;
+    color: darkred;
+  }
+
+  .question, .say_something {
+      font-size: 1.5rem;
+      font-weight: bold;
+  }
+
+  .summary {
+    font-size: 1rem;
+  }
+  
+  .answer:hover {
+    background: lightgreen;
+  }
+  
+  .answer {
+    padding-top: 0.4375rem;
+    height: 2.8125rem;
+    color: black;
+    padding-left: 0.875rem;
+    background-color: white;
+    border-radius: 0.375rem;
+  }
+  
+  .img_wrong {
+    margin-top: 40px;
+  } 
+  
+  .img_right {
+    width: 16.5rem;
+    height: 16.5rem;
+  }
+
+  .imgRight {
+    height: 16rem;
+    width: 24rem;
+  }
+
+  .imgRight2 {
+    height: 16rem;
+    width: 26rem;
+  }
+  
+  .first_answer {
+    margin-top: 2.5rem;
+  }
+
+  .answer {
+    font-size: 1.25rem;
+  }
+
+  .summary {
+    font-size: 1.3rem;
+  }
+  
+  .reset_button {
+    margin-top: 2.5rem;
+  }
+  
+  .summary_correct {
+    margin-top: 2.5rem;
+  }
+  
+  body {
+    background-image: url("../images/Chemistry-Background.jpg");
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
